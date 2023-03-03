@@ -6,7 +6,7 @@
 Implemented authentication levels and developed them step by step from simple username & password authentication
 to OAuth 2.0 (Register and Sign in with Google). In process of making it covered following topics:
 Database Encryption, Environment Variables, Hashing Passwords with crypto-js and #sha256, Salting and Hashing Passwords
-with bcrypt, Cookies and Sessions with the #express session, Passport.js, #mongoose local Passport, OAuth 2.0 Google Passport.
+with bcrypt, Cookies and Sessions with the Express session, Passport.js, Mongoose local Passport, OAuth 2.0 Google Passport.
 
 
 ## Built with
